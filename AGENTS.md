@@ -4,6 +4,7 @@ This repository contains the **Ed-Fi Data Management Service (DMS) Platform**, w
  - Code and solution file in `./src/dms`
 2. **Ed-Fi DMS Configuration Service (CMS)** - A functional implementation of the Ed-Fi Management API specification
  - Code and solution file in `./src/config`
+ - See `./src/config/AGENTS.md` for the CMS authorization model and the tenancy design decision before changing anything under `./src/config`
 
 ### Code Style
 
